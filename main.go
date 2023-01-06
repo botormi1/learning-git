@@ -1,6 +1,8 @@
 package main
 
 func main() {
+  fmt.Println("Hello, Go!")
+  fmt.Println("Welcome to my program.")
   fmt.Println("max(1, 2) = {}", max(1, 2))
 }
 
