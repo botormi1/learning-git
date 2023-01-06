@@ -8,4 +8,7 @@ func main() {
 
 func max(a, b int) int {
   return a > b ? a : b
+    var a int = 100
+    fmt.Println("Hello, Go!")
+    fmt.Println("{}", a)
 }
